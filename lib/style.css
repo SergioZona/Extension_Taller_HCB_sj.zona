@@ -1,0 +1,82 @@
+h1 {
+	text-align: center;
+	text-align: middle;
+	text-emphasis: 12;
+	color: white;
+}
+
+#imagenPrincipal {
+	width: 366px;
+	height: 289px;
+}
+
+#formato1 {
+	display: block;
+	align-items: middle;
+	align-items: center;
+	text-align: middle;
+}
+
+h2 {
+	text-align: center;
+	text-align: middle;
+	text-emphasis: 10;
+	color: white;
+}
+
+li {
+	text-align: justify;
+}
+
+#imgLogo1 {
+	width: 126.6px;
+	height: 96px;
+	filter: invert(18%) sepia(9%) saturate(14%) hue-rotate(349deg) brightness(96%)
+		contrast(86%);
+}
+
+#imgLogo2 {
+	width: 126.6px;
+	height: 96px;
+	filter: invert(18%) sepia(9%) saturate(14%) hue-rotate(349deg) brightness(96%)
+		contrast(86%);
+}
+
+#fondo_imagen {
+	background-color: chartreuse;
+}
+
+#estiloFila1 {
+	background-color: #4e4e4e;
+}
+
+#estiloFila2 {
+	background-color: #3d3d3d;
+}
+
+#formatoFila2a {
+	display: block;
+	align-items: center;
+	background-color: grey;
+}
+
+#formatoFila2b {
+	background-color: #efb886;
+	width: auto;
+	height: auto;
+	text-align: justify;
+}
+
+#letra {
+	font-size: 25;
+	color: black;
+}
+
+#columna {
+	background-color: grey;
+}
+
+#fotito {
+	width: 747px;
+	height: 350px;
+}
